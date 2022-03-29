@@ -15,3 +15,4 @@ int main()
 	cout<<"reverse number:"<<rev;
 	return 0;
 }
+ 
